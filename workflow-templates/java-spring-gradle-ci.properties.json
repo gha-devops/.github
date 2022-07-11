@@ -1,0 +1,14 @@
+{
+    "name": "Java CI Gradle",
+    "description": "CI starter workflow for Java Spring Boot apps.",
+    "iconName": "example-icon",
+    "categories": [
+        "Java",
+        "Spring Boot",
+        "Gradle"
+    ],
+    "filePatterns": [        
+        "^build.gradle",
+        "^Dockerfile"        
+    ]
+}

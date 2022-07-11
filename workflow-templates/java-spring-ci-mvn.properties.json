@@ -1,0 +1,14 @@
+{
+    "name": "Java CI Maven",
+    "description": "CI starter workflow for Java Spring Boot apps.",
+    "iconName": "example-icon",
+    "categories": [
+        "Java",
+        "Spring Boot",
+        "Maven"
+    ],
+    "filePatterns": [
+        "^pom.xml",        
+        "^Dockerfile"        
+    ]
+}
