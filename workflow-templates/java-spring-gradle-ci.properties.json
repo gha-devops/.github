@@ -1,7 +1,7 @@
 {
     "name": "Java CI Gradle",
     "description": "CI starter workflow for Java Spring Boot apps.",
-    "iconName": "example-icon",
+    "iconName": "gradle",
     "categories": [
         "Java",
         "Spring Boot",
